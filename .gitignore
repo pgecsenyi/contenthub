@@ -1,0 +1,10 @@
+/bin
+/data
+
+# gedit backups.
+.bat~
+.c~
+.h~
+.md~
+.go~
+.sh~
